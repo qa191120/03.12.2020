@@ -20,6 +20,8 @@ public class Main
             // 4. print c / d
             // 5. input from user 2 longs into e, f
             // 6. print a + b * c - d + (e * f)
+            // 7. input boolean from user named are_you_smart 
+            // 8. print are_you_smart
             
             System.out.println("Finished... see you soon...");
 
